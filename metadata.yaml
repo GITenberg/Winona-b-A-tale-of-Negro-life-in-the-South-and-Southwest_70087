@@ -1,0 +1,33 @@
+_repo: Winona-b-A-tale-of-Negro-life-in-the-South-and-Southwest_70087
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hopkins, Pauline E. (Pauline Elizabeth)
+    alias: Hopkins, Pauline Elizabeth
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '55156'
+    url: http://www.gutenberg.org/2009/agents/55156
+    wikipedia: https://en.wikipedia.org/wiki/Pauline_Hopkins
+description: ''
+gutenberg_issued: '2023-02-20'
+identifiers:
+  gutenberg: '70087'
+language: en
+pgterms:marc904: https://archive.org/details/sim_colored-american-magazine_1902-05_5_1_0
+pgterms:marc905: 20220917060517hopkins
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: Steve Mattern and many proofreading and formatting volunteers.
+publication_note: '  $aUnited States :$bThe Colored Co-operative Publishing Company,
+  $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Southern States -- Fiction'
+- !lcsh 'African Americans -- Southwestern States -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Winona : $b A tale of Negro life in the South and Southwest'
+url: http://www.gutenberg.org/ebooks/70087
